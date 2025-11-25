@@ -1,0 +1,1 @@
+console.log('Texto en terminal con JavaScript')
